@@ -28,7 +28,7 @@ Creating music together — for joy!
 
 ### [Swaple](https://devpost.com/software/swaple) (Won Rookie of the Year Award!)
 
-#### Made by Tze Zhe Brandon Lim
+#### Made by Tze Zhe Brandon Lim, Nathan Kim, and Bob Zheng
 
 It's like a 5x5 grid for wordle, but you start with all the letters scrambled, and need to make swaps between the letters to form 5 words. 
 
